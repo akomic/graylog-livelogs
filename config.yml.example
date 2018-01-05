@@ -1,2 +1,7 @@
-livelogs_url: foo.bar.com:12121
-livelogs_token: MyToken
+livelogs_url: foo:20225
+livelogs_token: Mytoken
+consul_address: foo.bar.com:8543
+consul_scheme: https
+consul_user: admin
+consul_pass: MyPass
+consul_token: MyToken
